@@ -4,7 +4,9 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{37C62894-7766-4E8B-8790-CDFAEB66EFF4}" Name="design" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="design.prj"/>
+		<Model Expanded="Yes" ID="{37C62894-7766-4E8B-8790-CDFAEB66EFF4}" Loaded="No" Name="design" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="design.prj"/>
+		<Model Expanded="Yes" ID="{9814114D-78F2-4F69-8DAF-072094BF16E3}" Name="strategy" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="strategy.oom"/>
+		<Model Expanded="Yes" ID="{763E88BC-F5B4-4DDA-BE75-D046C5725A5E}" Name="decorator" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="decorator.oom"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
