@@ -4,9 +4,11 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{37C62894-7766-4E8B-8790-CDFAEB66EFF4}" Loaded="No" Name="design" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="design.prj"/>
+		<Model ID="{37C62894-7766-4E8B-8790-CDFAEB66EFF4}" Name="design" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="design.prj"/>
 		<Model Expanded="Yes" ID="{9814114D-78F2-4F69-8DAF-072094BF16E3}" Loaded="No" Name="strategy" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="strategy.oom"/>
-		<Model Expanded="Yes" ID="{763E88BC-F5B4-4DDA-BE75-D046C5725A5E}" Loaded="No" Name="decorator" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="decorator.oom"/>
+		<Model ID="{763E88BC-F5B4-4DDA-BE75-D046C5725A5E}" Name="decorator" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="decorator.oom"/>
+		<Model Expanded="Yes" ID="{C4527948-9C0B-46B8-AAC3-D41945CB0180}" Name="compound" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="compound.oom"/>
+		<Model Expanded="Yes" ID="{2F0240D7-C11A-480D-8EFA-BC03FB7B8449}" Name="compound" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="compound.cdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
